@@ -34,8 +34,7 @@ For overall project context, see the [main SharingBridge repository](https://git
 
 ## Repository status
 
-🚧 **Status:** Initial setup (README + license; service code not started)  
-📅 **Renamed:** `sharingbridge-ai-safety` → `sharingbridge-location-safety` (slug reflects rule-based geo safety, not LLM)
+🚧 **Status:** Initial setup (README + license; service code not started)
 
 ## Getting started
 
